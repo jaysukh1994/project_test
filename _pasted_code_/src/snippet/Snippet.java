@@ -5,6 +5,7 @@ public class Snippet {
 		System.out.print("Hello");
 		System.out.println("change1");
 		System.out.println("change2");
+		System.out.println("change3");
 	}
 }
 
